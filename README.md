@@ -105,6 +105,9 @@ No packages, frameworks, servers, or additional dependencies are required.
 ```text
 A-Simple-Calculator/
 │
+├── 📁 assets/
+│   └── 🖼️ calculator-preview.png
+│
 ├── 📄 index.html
 ├── 🎨 style.css
 ├── ⚡ script.js
@@ -124,6 +127,8 @@ Contains the JavaScript logic used to perform calculations and handle user inter
 
 **`README.md`**
 Contains information and documentation about the project.
+**`assets/calcualtor-preview.png`**
+Contains the preview of the Calculator application.
 
 ---
 
