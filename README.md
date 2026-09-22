@@ -1,5 +1,7 @@
 # 🧮 A Simple Calculator
 
+
+
 <div align="center">
 
 ### ✨ A clean, simple, and interactive calculator built with HTML, CSS & JavaScript
@@ -79,7 +81,7 @@ You can run the calculator locally in just a few steps.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/sharmaji6880/A-Simple-Calculator.git
 ```
 
 ### 2️⃣ Navigate to the Project
@@ -147,28 +149,10 @@ Result Displayed
 
 ## 📸 Screenshots
 
-You can make this README even more visually appealing by adding a screenshot of your calculator here.
-
-```html
 <p align="center">
   <img src="assets/calculator-preview.png" width="600" alt="Calculator Preview">
 </p>
-```
 
-Create an `assets` folder in your repository and place your screenshot inside it:
-
-```text
-A-Simple-Calculator/
-│
-├── assets/
-│   └── calculator-preview.png
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
----
 
 ## 🎯 What I Learned
 
